@@ -8,111 +8,81 @@
   <img src="https://komarev.com/ghpvc/?username=mohamed-elabyad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-I’m a **Backend Developer specialized in Laravel**, focused on building scalable, secure, and clean backend systems.
+I am a **Backend Developer specialized in Laravel**, focused on building scalable backend systems,
+clean architecture, and business-driven solutions.
 
-I enjoy working on real-world projects, designing solid business logic, and writing maintainable code following best practices.  
-Most of my work revolves around **Laravel, REST APIs, authentication, queues, caching, and database design**.
+I have hands-on experience with **Laravel, PHP, MySQL**, building real-world applications with
+authentication, role-based access control, queues, caching, notifications, and task scheduling.
 
----
+I'm an avid learner, passionate about backend development, and always focused on writing clean,
+maintainable, and scalable code.
 
-## 🛠 Tools & Platforms
+Feel free to connect with me for backend development opportunities or just to say hello! 🚀
 
-- Git & GitHub  
-- Composer & Artisan  
-- VS Code  
-- Postman  
-- Command Line / Terminal  
-- XAMPP, Laragon  
-- npm & Vite  
-- TablePlus  
-- Browser DevTools  
-- Swagger  
-- FCM (Firebase Cloud Messaging)
+<hr>
 
----
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-## 🚀 Projects (Practical Experience)
+### Talking about Personal Stuff:
 
-### 🏥 BookADoc — Healthcare Booking Platform
-- Built a healthcare booking platform connecting patients and doctors with real-time scheduling, live chat, and payments.
-- Implemented **Stripe payments**, cash confirmation, and full appointment notifications.
-- Developed a scalable backend using **services, observers, queues, caching**, and custom Artisan commands.
-- Designed the frontend using **Tailwind CSS & Blade** with clean, user-friendly UI/UX.
+- 🛠 &nbsp; I’m mainly working with **Laravel, PHP, MySQL**
+- ⚙️ &nbsp; I build **REST APIs, dashboards, and backend systems**
+- 🚀 &nbsp; Experience with **queues, caching, notifications, and scheduling**
+- 💬 &nbsp; I enjoy turning business requirements into backend logic
+- 📫 &nbsp; Reach me out on GitHub or LinkedIn
 
-**Technologies:**  
-Laravel 12, PHP, MySQL, Tailwind CSS, Blade, Alpine.js, Filament, Stripe, Pusher, Redis
+### My Absolute Favorites:
 
-🔗 **Demo:** https://bookadoc.elabyad.online  
-🔗 **GitHub:** https://github.com/mohamed-elabyad/BookADoc
+- 💻 &nbsp; Building real-world backend systems
+- 🧠 &nbsp; Learning new backend concepts and best practices
+- 📰 &nbsp; Watching and reading tech-related content
 
----
+### Languages and Tools:
 
-### 💼 Job Board Web Application
-- Developed a job board where users can browse and apply for jobs.
-- Implemented an **Employer Dashboard** with role-based access control.
-- Focused on secure authorization, scalable architecture, and efficient database structure.
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Technologies:**  
-Laravel, MySQL, Middleware, Policies, Tailwind CSS, Alpine.js
+### Projects and Dev Stuffs:
 
-🔗 **Demo:** https://jobboard.elabyad.online  
-🔗 **GitHub:** https://github.com/mohamed-elabyad/job-board
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
----
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-elabyad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elabyad&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-### 📅 Events Management API
-- Built a RESTful API for managing events and attendees using **Laravel Sanctum**.
-- Developed custom Artisan commands and implemented **task scheduling**.
-- Added email notifications and role-based access control.
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-**Technologies:**  
-Laravel, MySQL, Sanctum, Notifications, Mail, Artisan Commands, Scheduling, Middleware, Policies
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-elabyad&hide_border=true" />
+</details>
 
-🔗 **GitHub:** https://github.com/mohamed-elabyad/events-management
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>Code Editor:</b> VS Code</li>
+	    <li><b>Backend:</b> Laravel & PHP</li>
+  	    <li><b>Database:</b> MySQL</li>
+	    <li><b>Tools:</b> Git, GitHub, Postman</li>
+	    <li><b>Local Dev:</b> XAMPP, Laragon</li>
+	</ul>
+</details>
 
----
-
-## 📚 Courses & Learning
-
-- CS50  
-- Python — Codezilla  
-- HTML, CSS, JavaScript — Zero Web School  
-- MySQL — Coursera  
-- PHP Fundamentals & Laravel — Laracasts & Programming with Gio  
-- Master Laravel 12 & PHP — Udemy (Piotr Jura)  
-  **Certificate Available**
-
----
-
-## 🎓 Education
-
-**Bachelor of Law** — Mansoura University (2024)
-
----
-
-## 🧠 Soft Skills
-
-- Teamwork  
-- Effective Communication  
-- Critical Thinking  
-- Quick Learner  
-- Adaptability  
-- Time Management  
-- Leadership  
-- Self-discipline  
-- Problem Solving  
-
----
-
-## 🌍 Languages
-
-- **Arabic:** Native  
-- **English:** B2 (Intermediate)
-
----
+#
 
 <div align="center">
 
-### ⭐ Show some love by starring my repositories!
+### Show some ❤️ by starring some of the repositories!
 
 </div>
