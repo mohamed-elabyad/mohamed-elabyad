@@ -32,26 +32,6 @@ Feel free to connect with me for all things tech or just to say hello! Let's bui
 - 📰 &nbsp; Reading tech articles and learning about backend architecture.
 - 🍕 &nbsp; Tech Events & Hackathons.
 
-### Languages and Tools:
-
-<p align="left">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP"/>
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="40"/><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="CSS"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" title="Composer"/>
-<img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/>
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" title="Tailwind CSS"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpine" title="Alpine.js"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" title="Redis"/>
-</p>
-
 ---
 
 ## 🚀 Technical Skills
