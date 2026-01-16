@@ -2,8 +2,8 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://elabyad.online)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201070063196)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elabyad1)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:m.elabyad.work@gmail.com.com)
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-elabyad&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-elabyad" /> </p>
